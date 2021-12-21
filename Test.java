@@ -3,6 +3,6 @@ class Test{
 		System.out.println("Git");
 		System.out.println("heo");
 		System.out.println("heo Git");
-		System.out.println("Hi Git");
+		//System.out.println("Hi Git");
 	}
 }
